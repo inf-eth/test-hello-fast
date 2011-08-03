@@ -1,4 +1,4 @@
-This simple project demonstrates how you can work with different IDEs and compilers to work with the same piece of code. This is useful in group projects where different people prefer to use different compilers/IDEs/OSs.
+This simple project demonstrates how you can use different IDEs and compilers to work with the same piece of code. This is useful in group projects where different people prefer to use different compilers/IDEs/OSs.
 
 There is a single source file called Sys0.cpp in src folder. 
 
