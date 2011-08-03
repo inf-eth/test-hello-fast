@@ -9,5 +9,7 @@ int main()
 	system("./out.o");			// Won't run on windows.
 	system("dir");				// Display directory contents in windows.
 	system("ls -la");			// Display directory contents in linux.
+
+	cout << "Hello world" << endl;
 	return 0;
 }
