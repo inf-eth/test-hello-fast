@@ -2,5 +2,5 @@
 x = 0:0.01:10;
 y = sin(x);
 plot(x,y);
-%title('graph of sinwave with frequency 100HZ');
-sine wave generator
+title('graph of sinwave with frequency 100HZ');
+%sine wave generator
