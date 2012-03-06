@@ -10,6 +10,7 @@ int main()
 	system("dir");				// Display directory contents in windows.
 	system("ls -la");			// Display directory contents in linux.
 
+	cout << "Random cout ," << endl;
 	cout << "Hello world" << endl;
 	return 0;
 }
