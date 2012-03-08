@@ -12,5 +12,6 @@ int main()
 
 	cout << "Random cout ," << endl;
 	cout << "Hello world" << endl;
+	cout << "another cout." << endl;
 	return 0;
 }
